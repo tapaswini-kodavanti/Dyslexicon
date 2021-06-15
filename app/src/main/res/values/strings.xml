@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dyslexicon</string>
+    <string name="play_button_name">Play</string>
+    <string name="dyslexicon_title">Dyslexicon</string>
+    <string name="practice_button_name">Practice</string>
+    <string name="about_button_name">About</string>
+    <string name="practice_screen_title">Practice</string>
+    <string name="sight_words_button_name">Sight Words</string>
+    <string name="decodable_words_button_name">Decodable Words</string>
+    <string name="exit_button_name">Exit</string>
+</resources>
